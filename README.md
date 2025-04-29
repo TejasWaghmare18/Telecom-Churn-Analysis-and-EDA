@@ -25,7 +25,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TejasWaghmare/Telecom-Churn-Analysis.git
+   git clone https://github.com/TejasWaghmare18/Telecom-Churn-Analysis.git
 
 
 ## Technologies Used
